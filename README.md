@@ -1,8 +1,5 @@
 # repositorioatividadeclrs
-descriçãoaoaoaõ
-criando um arquivo README.md
-passo a passo de como criá-lo
-//-//-//-//-//-//-//-//-//-//-//-//-//
-Futuras Funcionalidades
-1. Criar um primeiro site
-2. Melhorar a UI
+proveto 1° trimestre
+projeto desenvolvido na linguagem de programação JavaScript
+
+Item 1; Inclusão dos botões "Entrar" e "Login".
